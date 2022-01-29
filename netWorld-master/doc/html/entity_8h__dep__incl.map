@@ -1,0 +1,13 @@
+<map id="src/includes/entity.h" name="src/includes/entity.h">
+<area shape="rect" id="node1" title="Header file of the entity module." alt="" coords="227,5,365,32"/>
+<area shape="rect" id="node2" href="$entity_8c.html" title=" " alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$game_main_8c.html" title=" " alt="" coords="52,229,167,256"/>
+<area shape="rect" id="node4" href="$game_8h.html" title="Header file of a slenderman game." alt="" coords="165,155,304,181"/>
+<area shape="rect" id="node7" href="$game_entity_8h.html" title="Header file of the entity part of the slender game." alt="" coords="272,80,443,107"/>
+<area shape="rect" id="node9" href="$ia_8h.html" title="Header file of the IA module." alt="" coords="482,80,598,107"/>
+<area shape="rect" id="node11" href="$test_i_a_8c.html" title=" " alt="" coords="611,155,733,181"/>
+<area shape="rect" id="node5" href="$game_8c.html" title=" " alt="" coords="302,229,389,256"/>
+<area shape="rect" id="node6" href="$menu_8c.html" title=" " alt="" coords="191,229,278,256"/>
+<area shape="rect" id="node8" href="$game_entity_8c.html" title=" " alt="" coords="379,155,498,181"/>
+<area shape="rect" id="node10" href="$ia_8c.html" title=" " alt="" coords="523,155,587,181"/>
+</map>

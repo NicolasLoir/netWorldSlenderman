@@ -1,0 +1,5 @@
+<map id="netWorld" name="netWorld">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,79,225"/>
+<area shape="rect" id="node2" href="$structnode.html" title=" " alt="" coords="17,5,67,32"/>
+<area shape="rect" id="node3" href="$structedge.html" title=" " alt="" coords="83,109,134,136"/>
+</map>

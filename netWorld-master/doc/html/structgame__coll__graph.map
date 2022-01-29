@@ -1,0 +1,16 @@
+<map id="game" name="game">
+<area shape="rect" id="node1" title=" " alt="" coords="223,513,277,540"/>
+<area shape="rect" id="node2" href="$structentity.html" title=" " alt="" coords="114,199,167,225"/>
+<area shape="rect" id="node8" href="$structitems_map.html" title=" " alt="" coords="92,304,171,331"/>
+<area shape="rect" id="node10" href="$structfollowing_i_a.html" title=" " alt="" coords="277,409,364,436"/>
+<area shape="rect" id="node3" href="$structnode.html" title=" " alt="" coords="330,95,381,121"/>
+<area shape="rect" id="node11" href="$structnet_world.html" title=" " alt="" coords="368,304,441,331"/>
+<area shape="rect" id="node12" href="$structedge.html" title=" " alt="" coords="459,199,510,225"/>
+<area shape="rect" id="node4" href="$unionentity_property.html" title=" " alt="" coords="90,95,191,121"/>
+<area shape="rect" id="node5" href="$structentity_player.html" title=" " alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node6" href="$structnpc.html" title=" " alt="" coords="119,5,162,32"/>
+<area shape="rect" id="node7" href="$structworld_item.html" title=" " alt="" coords="187,5,265,32"/>
+<area shape="rect" id="node9" href="$structgraphical_data.html" title=" " alt="" coords="151,409,253,436"/>
+<area shape="rect" id="node13" href="$structevent_manager.html" title=" " alt="" coords="491,409,595,436"/>
+<area shape="rect" id="node14" href="$structqueue.html" title=" " alt="" coords="515,304,572,331"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="src/networld.c" name="src/networld.c">
+<area shape="rect" id="node1" title=" " alt="" coords="353,5,455,32"/>
+<area shape="rect" id="node2" href="$networld_8h.html" title="Header file of the NetWorld component." alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="163,80,223,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="247,80,310,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="335,80,391,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="415,80,476,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="501,80,558,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="583,80,647,107"/>
+<area shape="rect" id="node11" href="$utils_8h.html" title="Headef file of the utils module." alt="" coords="671,80,779,107"/>
+<area shape="rect" id="node3" href="$node_8h.html" title="Header file of the node module." alt="" coords="42,229,102,256"/>
+<area shape="rect" id="node4" href="$edge_8h.html" title="Header file of the edge structure." alt="" coords="77,155,137,181"/>
+</map>

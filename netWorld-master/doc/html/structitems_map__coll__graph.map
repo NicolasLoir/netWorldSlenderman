@@ -1,0 +1,9 @@
+<map id="itemsMap" name="itemsMap">
+<area shape="rect" id="node1" title=" " alt="" coords="41,273,120,300"/>
+<area shape="rect" id="node2" href="$structentity.html" title=" " alt="" coords="54,184,107,211"/>
+<area shape="rect" id="node3" href="$structnode.html" title=" " alt="" coords="15,95,66,121"/>
+<area shape="rect" id="node4" href="$unionentity_property.html" title=" " alt="" coords="90,95,191,121"/>
+<area shape="rect" id="node5" href="$structentity_player.html" title=" " alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node6" href="$structnpc.html" title=" " alt="" coords="119,5,162,32"/>
+<area shape="rect" id="node7" href="$structworld_item.html" title=" " alt="" coords="187,5,265,32"/>
+</map>

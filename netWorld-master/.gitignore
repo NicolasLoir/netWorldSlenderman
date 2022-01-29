@@ -1,0 +1,10 @@
+# Directory:
+
+build
+raylib
+
+# Generated files:
+
+nw-*
+config
+*.o

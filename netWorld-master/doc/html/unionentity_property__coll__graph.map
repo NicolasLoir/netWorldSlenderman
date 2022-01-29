@@ -1,0 +1,6 @@
+<map id="entityProperty" name="entityProperty">
+<area shape="rect" id="node1" title=" " alt="" coords="90,95,191,121"/>
+<area shape="rect" id="node2" href="$structentity_player.html" title=" " alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$structnpc.html" title=" " alt="" coords="119,5,162,32"/>
+<area shape="rect" id="node4" href="$structworld_item.html" title=" " alt="" coords="187,5,265,32"/>
+</map>

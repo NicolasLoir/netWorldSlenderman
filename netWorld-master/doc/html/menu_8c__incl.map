@@ -1,0 +1,17 @@
+<map id="src/menu.c" name="src/menu.c">
+<area shape="rect" id="node1" title=" " alt="" coords="343,5,429,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,304,68,331"/>
+<area shape="rect" id="node3" title=" " alt="" coords="424,80,484,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="509,80,573,107"/>
+<area shape="rect" id="node5" href="$menu_8h.html" title="Header file of the menu module." alt="" coords="467,155,583,181"/>
+<area shape="rect" id="node7" href="$game_8h.html" title="Header file of a slenderman game." alt="" coords="232,80,348,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="309,304,372,331"/>
+<area shape="rect" id="node8" href="$networld_8h.html" title="Header file of the NetWorld component." alt="" coords="199,304,280,331"/>
+<area shape="rect" id="node11" href="$entity_8h.html" title="Header file of the entity module." alt="" coords="40,229,103,256"/>
+<area shape="rect" id="node12" href="$ia_8h.html" title="Header file of the IA module." alt="" coords="177,155,219,181"/>
+<area shape="rect" id="node14" href="$event_8h.html" title="Header file of the event module." alt="" coords="378,155,442,181"/>
+<area shape="rect" id="node9" href="$node_8h.html" title="Header file of the node module." alt="" coords="208,453,268,480"/>
+<area shape="rect" id="node10" href="$edge_8h.html" title="Header file of the edge structure." alt="" coords="243,379,303,405"/>
+<area shape="rect" id="node13" title=" " alt="" coords="127,229,202,256"/>
+<area shape="rect" id="node15" href="$utils_8h.html" title="Headef file of the utils module." alt="" coords="382,229,438,256"/>
+</map>

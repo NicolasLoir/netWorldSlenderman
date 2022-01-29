@@ -1,0 +1,11 @@
+<map id="src/gameEntity.c" name="src/gameEntity.c">
+<area shape="rect" id="node1" title=" " alt="" coords="193,5,312,32"/>
+<area shape="rect" id="node2" href="$game_entity_8h.html" title="Header file of the entity part of the slender game." alt="" coords="67,80,215,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="221,229,284,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="291,80,351,107"/>
+<area shape="rect" id="node3" href="$entity_8h.html" title="Header file of the entity module." alt="" coords="121,155,184,181"/>
+<area shape="rect" id="node6" href="$node_8h.html" title="Header file of the node module." alt="" coords="29,379,89,405"/>
+<area shape="rect" id="node5" href="$networld_8h.html" title="Header file of the NetWorld component." alt="" coords="29,229,111,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="135,229,197,256"/>
+<area shape="rect" id="node7" href="$edge_8h.html" title="Header file of the edge structure." alt="" coords="29,304,89,331"/>
+</map>

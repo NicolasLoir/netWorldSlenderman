@@ -1,0 +1,10 @@
+<map id="src/entity.c" name="src/entity.c">
+<area shape="rect" id="node1" title=" " alt="" coords="146,5,231,32"/>
+<area shape="rect" id="node2" href="$entity_8h.html" title="Header file of the entity module." alt="" coords="75,80,190,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="215,80,275,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,68,181"/>
+<area shape="rect" id="node4" href="$networld_8h.html" title="Header file of the NetWorld component." alt="" coords="92,155,173,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="197,155,260,181"/>
+<area shape="rect" id="node5" href="$node_8h.html" title="Header file of the node module." alt="" coords="101,304,161,331"/>
+<area shape="rect" id="node6" href="$edge_8h.html" title="Header file of the edge structure." alt="" coords="136,229,196,256"/>
+</map>

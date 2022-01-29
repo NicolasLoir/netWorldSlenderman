@@ -1,0 +1,12 @@
+<map id="followingIA" name="followingIA">
+<area shape="rect" id="node1" title=" " alt="" coords="264,395,351,421"/>
+<area shape="rect" id="node2" href="$structnode.html" title=" " alt="" coords="306,95,357,121"/>
+<area shape="rect" id="node3" href="$structentity.html" title=" " alt="" coords="154,199,207,225"/>
+<area shape="rect" id="node9" href="$structnet_world.html" title=" " alt="" coords="319,304,392,331"/>
+<area shape="rect" id="node10" href="$structedge.html" title=" " alt="" coords="263,199,314,225"/>
+<area shape="rect" id="node8" href="$structitems_map.html" title=" " alt="" coords="116,304,195,331"/>
+<area shape="rect" id="node4" href="$unionentity_property.html" title=" " alt="" coords="90,95,191,121"/>
+<area shape="rect" id="node5" href="$structentity_player.html" title=" " alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node6" href="$structnpc.html" title=" " alt="" coords="119,5,162,32"/>
+<area shape="rect" id="node7" href="$structworld_item.html" title=" " alt="" coords="187,5,265,32"/>
+</map>
